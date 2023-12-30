@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi🚀 I'm Matu.
 
-<!--
-**mcmatudev/mcmatudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **I'm WebDeveloper.**    
+🚀 **I'm primarily active in discord.**    
+🌐 **I love programming very much. Especially nodejs, typescript, html(笑).**    
+🧠 **I like react, next.js, etc.**    
 
-Here are some ideas to get you started:
+## Myfavorite People💖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+💙Amex
+💛Island
+💖Evorax
+💜Tor
+💚WappaStay
+```
+
+
+
